@@ -31,13 +31,13 @@ const naveen = {
   name     : "Naveen Kumar Thangavel",
   role     : "Full Stack MERN Developer",
   location : "India 🇮🇳",
-  stack    : ["MongoDB", "Express.js", "React.js", "Node.js"],
+  stack    : ["MongoDB", "Express.js", "React.js", "Node.js","PHP"],
   passion  : "Engineering products that solve real-world problems",
 
   expertise: {
-    backend   : "Node.js · Express.js · REST APIs · JWT Auth",
-    frontend  : "React.js · Tailwind CSS · Responsive UI",
-    database  : "MongoDB · Mongoose · Query Optimization",
+    backend   : "Node.js · Express.js · REST APIs · JWT · Auth PHP",
+    frontend  : "React.js · Tailwind CSS · Responsive UI · Javascript",
+    database  : "MongoDB · Mongoose · Query Optimization · SQL · PosgreSql",
     patterns  : "MVC · RESTful Design · Role-Based Access"
   },
 
