@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=750&lines=Full+Stack;+MERN+Stack+Developer;Building+scalable+REST+APIs+with+Node.js+%26+Express;Crafting+responsive+UIs+with+React.js;Designing+robust+backend+architectures;Turning+ideas+into+production-grade+applications+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=750&lines=Full+Stack+Developer;+MERN+Stack+Developer;Building+scalable+REST+APIs+with+Node.js+%26+Express;Crafting+responsive+UIs+with+React.js;Designing+robust+backend+architectures;Turning+ideas+into+production-grade+applications+%E2%98%95" alt="Typing SVG" />
   </a>
 </p>
 
