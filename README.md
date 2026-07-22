@@ -311,7 +311,7 @@ Deployment Ready
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
   &nbsp;
-  <a href="https://naveen-kumar-1.github.io/portfolioOfNK/">
+  <a href="https://naveenkumart-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117&color=00FF88" />
   </a>
   &nbsp;
