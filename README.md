@@ -198,7 +198,6 @@ Role-based e-learning portal serving 100+ students across 4 modules.
 ## `06` &nbsp;GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Naveen-kumar-1&show_icons=true&theme=radical&bg_color=15122a&title_color=E0D9FF&text_color=C9C3E8&icon_color=9D8FE0&border_color=302B63&rank_icon=github&include_all_commits=true&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-kumar-1&background=15122a&ring=9D8FE0&fire=E0D9FF&currStreakLabel=E0D9FF&sideLabels=C9C3E8&border=302B63" width="49%"/>
 </div>
 
