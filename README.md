@@ -1,335 +1,227 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D2E,100:00FF88&height=200&section=header&text=NAVEEN%20KUMAR&fontSize=60&fontColor=00FF88&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%E2%80%94%20Node.js%20%7C%20React%20%7C%20REST%20APIs%20%7C%20JavaScript&descAlignY=60&descSize=16&descColor=A0FFD0&animation=fadeIn" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=750&lines=Full+Stack+Developer;+MERN+Stack+Developer;Building+scalable+REST+APIs+with+Node.js+%26+Express;Crafting+responsive+UIs+with+React.js;Designing+robust+backend+architectures;Turning+ideas+into+production-grade+applications+%E2%98%95" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Available%20for%20Work-00FF88?style=flat-square&labelColor=0D1117&color=00FF88" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-MERN%20Stack%20%26%20REST%20APIs-00BFFF?style=flat-square&labelColor=0D1117&color=00BFFF" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Naveen-kumar-1&style=flat-square&color=00FF88&label=PROFILE+VIEWS&labelColor=0D1117" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=260&section=header&text=NAVEEN%20KUMAR&fontSize=56&fontColor=E0D9FF&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20MERN%20Developer%20%C2%B7%202%2B%20Years%20%C2%B7%20Coimbatore%2C%20India&descAlignY=58&descSize=17&descColor=9D8FE0" width="100%"/>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════ ABOUT ═══ -->
+<a href="https://naveenkumart-dev.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-9D8FE0?style=flat-square&labelColor=15122a"/></a>
+<a href="https://www.linkedin.com/in/naveenkumarthangavel/"><img src="https://img.shields.io/badge/💼_LINKEDIN-9D8FE0?style=flat-square&labelColor=15122a"/></a>
+<a href="mailto:codemavericknk@gmail.com"><img src="https://img.shields.io/badge/✉️_EMAIL-9D8FE0?style=flat-square&labelColor=15122a"/></a>
+<a href="tel:+919345684852"><img src="https://img.shields.io/badge/📞_+91_93456_84852-9D8FE0?style=flat-square&labelColor=15122a"/></a>
 
-<table align="center" width="95%">
+<br/><br/>
+
+<table>
 <tr>
-<td width="55%" valign="top">
-
-### `> whoami`
-
-```typescript
-const naveen = {
-  name     : "Naveen Kumar Thangavel",
-  role     : "Full Stack MERN Developer",
-  location : "India 🇮🇳",
-  stack    : ["MongoDB", "Express.js", "React.js", "Node.js","PHP"],
-  passion  : "Engineering products that solve real-world problems",
-
-  expertise: {
-    backend   : "Node.js · Express.js · REST APIs · JWT · Auth PHP",
-    frontend  : "React.js · Tailwind CSS · Responsive UI · Javascript",
-    database  : "MongoDB · Mongoose · Query Optimization · SQL · PosgreSql",
-    patterns  : "MVC · RESTful Design · Role-Based Access"
-  },
-
-  currently: {
-    learning  : "System Design & Cloud Architecture",
-    building  : "Scalable full-stack web applications",
-    exploring : "DevOps, CI/CD & containerization"
-  },
-
-  philosophy: "Code is craft — precision matters."
-};
-```
-
-</td>
-
+<td align="center"><img src="https://img.shields.io/badge/2%2B-Years_Experience-15122a?style=for-the-badge&labelColor=302B63&color=E0D9FF"/></td>
+<td align="center"><img src="https://img.shields.io/badge/4-Products_Shipped-15122a?style=for-the-badge&labelColor=302B63&color=E0D9FF"/></td>
+<td align="center"><img src="https://img.shields.io/badge/10%2B-APIs_Integrated-15122a?style=for-the-badge&labelColor=302B63&color=E0D9FF"/></td>
+<td align="center"><img src="https://img.shields.io/badge/75%25-Faster_APIs-15122a?style=for-the-badge&labelColor=302B63&color=E0D9FF"/></td>
 </tr>
 </table>
 
+</div>
+
+&nbsp;
+
+## `01` &nbsp;Profile
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+I'm a **Full Stack MERN Developer** currently building production software at **CartRabbit**. Over 2+ years I've shipped 5+ live modules, integrated 10+ third-party APIs, and kept systems running through 50+ bug fixes — including 5 critical hotfixes under pressure. I hold an **M.Sc. in Computer Science** and spend my off-hours engineering full products end-to-end: ordering systems, real-time collaboration tools, e-learning platforms, and job marketplaces.
+
+I care most about **backend architecture that doesn't fall over** — clean REST design, sane database schemas, and auth that's actually secure — paired with frontends that don't get in the user's way.
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+name: Naveen Kumar Thangavel
+role: Software Developer @ CartRabbit
+location: Coimbatore, Tamil Nadu, IN
+education: M.Sc. Computer Science
+
+focus:
+  - Node.js / Express REST APIs
+  - React.js & Next.js interfaces
+  - MongoDB / MySQL / PostgreSQL
+  - JWT Auth & RBAC
+  - Socket.IO real-time systems
+
+currently_learning:
+  - System Design
+  - Cloud Architecture
+  - CI/CD & Containerization
+```
+
+</td>
+</tr>
+</table>
+
+&nbsp;
+
+## `02` &nbsp;Experience
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+**Software Developer** — CartRabbit &nbsp;·&nbsp; *Coimbatore, Tamil Nadu*
+<br/><sub>June 2024 — Present</sub>
+
+&nbsp;
+
+Built and maintained production e-commerce tooling across the full stack, from database schema to deployed UI.
+
+| Metric | Result |
+|:--|:--|
+| Modules shipped | **5+** full-stack modules (React.js · Node.js · Express.js · PHP · MySQL) |
+| API integrations | **10+** REST APIs — payment gateways, OAuth providers, logistics services |
+| Reliability | **50+** bugs resolved, incl. 5 critical production hotfixes |
+| Process | Standardized Git branching, Postman docs & Vercel CI/CD — **30% faster releases** |
+
+</td>
+</tr>
+</table>
+
+&nbsp;
+
+## `03` &nbsp;Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,php&theme=dark&perline=9"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,git,github,vercel,postman,figma&theme=dark&perline=9"/>
+
+</div>
+
 <br/>
 
-<!-- ════════════════════════════════════════════ TECH STACK ═══ -->
+| Layer | Tools |
+|:--|:--|
+| **Frontend** | React.js, Next.js, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, PHP, REST API Design, JWT Auth, Socket.IO |
+| **Database** | MongoDB, MySQL, PostgreSQL, Schema Design, Query Optimization |
+| **Tooling** | Git, GitHub, Postman, Vercel, Firebase, Figma |
+| **Concepts** | MVC, RBAC, Full-Stack Architecture, API-First Design, Real-Time Systems |
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header&reversal=false" />
-</p>
+&nbsp;
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" />
-  &nbsp;ARSENAL
-</h2>
+## `04` &nbsp;Selected Work
 
-<!-- MERN Core -->
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
-</p>
+<table width="100%">
 
-<!-- Languages & Styling -->
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-</p>
-
-<!-- Backend & API tooling -->
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/JWT_Auth-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=FBBA00" />
-  <img src="https://img.shields.io/badge/Socket.io-0D1117?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-</p>
-
-<!-- DevOps & Tooling -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-</p>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════ PROJECTS ═══ -->
-
-<h2 align="center">
-  ◈ &nbsp; FEATURED WORK &nbsp; ◈
-</h2>
-
-<table align="center" width="95%">
-
-<!-- PROJECT 1 -->
 <tr>
 <td width="50%" valign="top">
 
-<h3>
-  <a href="https://edu-bridge-admin-client.vercel.app/">
-    <img src="https://img.shields.io/badge/◆_EduBridge-Live-00FF88?style=flat-square&labelColor=0D1117" />
-  </a>
-</h3>
+### 🍽️ Foodify
+**QR-Based Restaurant Ordering System**
+<br/><sub>May 2026 – Jun 2026 &nbsp;·&nbsp; <a href="https://foodify-nu-green.vercel.app/">Live ↗</a></sub>
 
-> **College Management & Communication Platform**
+3-role ordering platform (customer / staff / admin) with table-specific QR codes and live order tracking.
 
-A full-stack institutional platform that bridges the gap between students, faculty, and administrators — built for clarity, speed, and scale.
+- 5 normalized MongoDB collections, queries **under 150ms**
+- 20+ REST endpoints across a 4-stage order lifecycle
+- Table order time cut to **under 2 minutes**
 
-```
-Frontend  →  React.js + Tailwind CSS
-Backend   →  Node.js + Express.js
-Database  →  MongoDB
-Auth      →  JWT Authentication
-```
-
-**Core Capabilities**
-- `[✓]` Student & Staff lifecycle management
-- `[✓]` Attendance & assignment tracking engine
-- `[✓]` Real-time notice board & notifications
-- `[✓]` Secure student–staff messaging
-- `[✓]` Role-based admin dashboard
-
-<a href="https://edu-bridge-admin-client.vercel.app/"><img src="https://img.shields.io/badge/View_Live_Demo-→-00FF88?style=for-the-badge&labelColor=0D1117" /></a>
+`React` `Node` `Express` `MongoDB` `JWT`
 
 </td>
-
-<!-- PROJECT 2 -->
 <td width="50%" valign="top">
 
-<h3>
-  <a href="https://task-titan-roan.vercel.app/">
-    <img src="https://img.shields.io/badge/◆_TaskTitan-Live-00BFFF?style=flat-square&labelColor=0D1117" />
-  </a>
-</h3>
+### ⚡ TaskTitan
+**Organizational Task Management**
+<br/><sub>Jan 2026 – Apr 2026 &nbsp;·&nbsp; <a href="https://task-titan-roan.vercel.app/">Live ↗</a></sub>
 
-> **Organizational Task Management Platform**
+Workspace-based task orchestration for 20+ users with real-time collaboration.
 
-An enterprise-grade task orchestration system enabling teams to assign, track, and collaborate — with real-time updates and structured access control.
+- Socket.IO chat & alerts, **<100ms** delivery
+- API response time: 800ms → **<200ms (75% faster)**
+- Role-based workspace & milestone tracking
 
-```
-Frontend  →  React.js + Tailwind CSS
-Backend   →  Node.js + Express.js
-Database  →  MongoDB
-Auth      →  JWT + Role-Based Access
-```
-
-**Core Capabilities**
-- `[✓]` Organization registration & onboarding
-- `[✓]` Employee profile & department management
-- `[✓]` Task assignment & milestone tracking
-- `[✓]` Real-time status sync across teams
-- `[✓]` Secure in-org chat system
-
-<a href="https://task-titan-roan.vercel.app/"><img src="https://img.shields.io/badge/View_Live_Demo-→-00BFFF?style=for-the-badge&labelColor=0D1117" /></a>
+`React` `Node` `Socket.IO` `MongoDB`
 
 </td>
 </tr>
 
-<!-- PROJECT 3 -->
 <tr>
-<td colspan="2" align="center">
+<td width="50%" valign="top">
 
-<h3>
-  <a href="https://job-search-portal-client.vercel.app/">
-    <img src="https://img.shields.io/badge/◆_MERN_Job_Search_Portal-Live-FFD700?style=flat-square&labelColor=0D1117" />
-  </a>
-</h3>
+### 🎓 EduBridge
+**E-Learning Platform**
+<br/><sub>Apr 2025 – Jun 2025 &nbsp;·&nbsp; <a href="https://edu-bridge-student.vercel.app/">Live ↗</a></sub>
 
-> **Full-Stack Recruitment & Job Management Platform** — Connecting recruiters and candidates through a seamless, modern hiring system.
+Role-based e-learning portal serving 100+ students across 4 modules.
 
-<table width="80%" align="center">
-<tr>
-<td align="center" width="33%">
+- Course navigation: 6 clicks → 2 steps (**−67%**)
+- Page loads **under 1.5s** at 100 concurrent users
+- Resource uploads & staff/student dashboards
 
-```
-Stack
-──────────────
-React + Tailwind
-Node + Express
-MongoDB
-JWT Auth
-```
+`React` `Node` `Express` `MongoDB`
 
 </td>
-<td width="67%" valign="top">
+<td width="50%" valign="top">
 
-**Platform Highlights**
-- `[✓]` Multi-role auth — recruiter, candidate, admin
-- `[✓]` Job posting, vacancy lifecycle management
-- `[✓]` Resume uploads & rich candidate profiles
-- `[✓]` Real-time application tracking system
-- `[✓]` Advanced search, filters & saved jobs
+### 💼 Job Search Portal
+**Recruitment & Hiring Platform**
+<br/><sub>Aug 2024 – Dec 2024 &nbsp;·&nbsp; <a href="https://job-search-portal-client.vercel.app/">Live ↗</a></sub>
+
+3-role hiring platform with a 5-stage application tracker.
+
+- Filtering across 10+ attributes, **−60%** time-to-result
+- Aggregation pipelines serving 1,000+ listings, **sub-300ms**
+- Multi-role dashboards — applicant / employer / admin
+
+`React` `Node` `Express` `MongoDB` `JWT`
 
 </td>
 </tr>
+
 </table>
 
-<a href="https://job-search-portal-client.vercel.app/"><img src="https://img.shields.io/badge/View_Live_Demo-→-FFD700?style=for-the-badge&labelColor=0D1117" /></a>
+&nbsp;
 
-</td>
-</tr>
-</table>
+## `05` &nbsp;Education
 
-<br/>
+| Degree | Institution | Years |
+|:--|:--|:--|
+| M.Sc. Computer Science | Erode Arts and Science College, Bharathiar University | 2024 – 2026 |
+| B.Sc. Computer Science | Erode Arts and Science College, Bharathiar University | 2021 – 2024 |
 
-<!-- ══════════════════════════════════════════ BACKEND EDGE ═══ -->
+&nbsp;
 
-<h2 align="center">◈ &nbsp; BACKEND ENGINEERING FOCUS &nbsp; ◈</h2>
+## `06` &nbsp;GitHub Activity
 
-<table align="center" width="92%">
-<tr>
-<td align="center" width="25%">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Naveen-kumar-1&show_icons=true&theme=radical&bg_color=15122a&title_color=E0D9FF&text_color=C9C3E8&icon_color=9D8FE0&border_color=302B63&rank_icon=github&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-kumar-1&background=15122a&ring=9D8FE0&fire=E0D9FF&currStreakLabel=E0D9FF&sideLabels=C9C3E8&border=302B63" width="49%"/>
+</div>
 
-```
-NODE.JS & EXPRESS
-─────────────────
-RESTful API Design
-Middleware Layers
-Route Architecture
-Error Handling
-Async/Await Patterns
-```
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-kumar-1&bg_color=15122a&color=E0D9FF&line=9D8FE0&point=FFFFFF&area=true&area_color=302B63&hide_border=true&title_color=E0D9FF" width="100%"/>
+</div>
 
-</td>
-<td align="center" width="25%">
+&nbsp;
 
-```
-MONGODB
-─────────────────
-Schema Modeling
-Mongoose ORM
-Aggregation Pipelines
-Indexing & Performance
-CRUD Operations
-```
+<div align="center">
 
-</td>
-<td align="center" width="25%">
+## Let's build something
 
-```
-AUTHENTICATION
-─────────────────
-JWT Token System
-Role-Based Access
-Protected Routes
-Session Management
-Secure Hashing
-```
+I'm open to full-stack and backend-focused roles where I can own systems end-to-end.
 
-</td>
-<td align="center" width="25%">
+<a href="mailto:codemavericknk@gmail.com"><img src="https://img.shields.io/badge/Email_Me-15122a?style=for-the-badge&logo=gmail&logoColor=E0D9FF&labelColor=302B63"/></a>
+<a href="https://www.linkedin.com/in/naveenkumarthangavel/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-15122a?style=for-the-badge&logo=linkedin&logoColor=E0D9FF&labelColor=302B63"/></a>
+<a href="https://naveenkumart-dev.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-15122a?style=for-the-badge&logo=vercel&logoColor=E0D9FF&labelColor=302B63"/></a>
 
-```
-ARCHITECTURE
-─────────────────
-MVC Pattern
-API-First Design
-Modular Codebase
-Env Configuration
-Deployment Ready
-```
-
-</td>
-</tr>
-</table>
+📍 Thiruchengode, Tamil Nadu, India
 
 <br/>
 
-<!-- ════════════════════════════════════════════════ STATS ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:24243e,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
 
-<h2 align="center">◈ &nbsp; GITHUB INTELLIGENCE &nbsp; ◈</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-kumar-1&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&icon_color=00BFFF&border_color=30363D&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-kumar-1&theme=github-dark-blue&background=0D1117&ring=00FF88&fire=FFD700&currStreakLabel=00FF88&sideLabels=C9D1D9&border=30363D" width="49%" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-kumar-1&bg_color=0D1117&color=00FF88&line=00BFFF&point=FFD700&area=true&area_color=0A3D2E&hide_border=false&border_color=30363D&title_color=00FF88" width="95%" />
-</p>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════ CONNECT ═══ -->
-
-<h2 align="center">◈ &nbsp; TRANSMISSION CHANNELS &nbsp; ◈</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/naveenkumarthangavel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-  </a>
-  &nbsp;
-  <a href="https://naveenkumart-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117&color=00FF88" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Naveen-kumar-1">
-    <img src="https://img.shields.io/badge/GitHub-C9D1D9?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117&color=C9D1D9" />
-  </a>
-</p>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════ FOOTER ═══ -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3D2E,100:0D1117&height=100&section=footer&text=Coding%20with%20Precision.%20Building%20with%20Purpose.&fontSize=14&fontColor=00FF88&fontAlignY=65&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <sub>
-    <code>while(alive) { code(); learn(); ship(); repeat(); }</code>
-  </sub>
-</p>
+</div>
